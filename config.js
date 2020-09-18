@@ -3,7 +3,7 @@ module.exports = {
   daily_reward_amount: 500,
   bot_prefix: "!",
   price_to_enter_giveaway: 100,
-  bot_token: "NzA3MzE2MzE3NDQ2ODY0OTY2.XrJ2fw.sOhLpeV06rp8JZZFv6Ktur7OSNQ",
+  bot_token: "<token yeet>",
   shop: {
     roles: [
       { name: "Red", id: "674010122581966888", price: 3 },
